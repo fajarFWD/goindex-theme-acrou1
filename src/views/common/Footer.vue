@@ -6,10 +6,10 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
+              href="https://t.me/movieplaylist"
+            >MVPL Teamdrive</a>
             <span class="tag is-light">
-              MIT &nbsp;
+              TG &nbsp;
               <span class="icon">
                 <i class="fab fa-github"></i>
               </span>
