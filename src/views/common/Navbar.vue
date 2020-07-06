@@ -65,8 +65,8 @@
             class="navbar-item"
             target="_blank"
             rel="noopener"
-            title="View on github"
-            href="https://github.com/Aicirou/goindex-theme-acrou"
+            title="View on Telegram"
+            href="https://t.me/movieplaylist"
           >
             <i class="fab fa-github"></i>
           </a>
